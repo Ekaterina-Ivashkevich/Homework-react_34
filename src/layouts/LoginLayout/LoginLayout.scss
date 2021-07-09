@@ -1,0 +1,8 @@
+.login-layout {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+ &__btn {
+   width: 200px;
+ }
+}
